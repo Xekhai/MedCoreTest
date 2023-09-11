@@ -1,9 +1,12 @@
-# How to Run
+# MedCore Test
 
-This README provides step-by-step instructions on how to run this Flutter project on your local machine.
+A new Flutter project.
 
-## Prerequisites
+## Getting Started
 
+<<<<<<< Updated upstream
+FlutterFlow projects are built to run on the Flutter _stable_ release.
+=======
 Before starting, make sure you have the following installed:
 
 1. **Flutter SDK**: If you don't have Flutter installed, visit [Flutter's official website](https://flutter.dev/docs/get-started/install) for installation guidelines specific to your OS.
@@ -16,7 +19,7 @@ Before starting, make sure you have the following installed:
 1. **Clone/Download the Project**: 
    ```bash
    git clone https://github.com/Xekhai/MedCoreTest.git
-   cd [The_PROJECT_DIRECTORY]
+   cd [MedCoreTest]
    ```
 
    If you've downloaded a zip of the project, unzip it and navigate to the project directory in your terminal.
@@ -52,3 +55,4 @@ Before starting, make sure you have the following installed:
    The `DEVICE_ID` can be found from the list when you run `flutter devices`.
 
 5. **Hot Reload**: Once your app starts, Flutter has a hot reload feature. If you make changes to the source code, you can press `r` in the terminal where the app is running to see those changes instantly in the running app.
+>>>>>>> Stashed changes

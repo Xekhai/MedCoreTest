@@ -33,7 +33,7 @@ class _AccountSuccessfulWidgetState extends State<AccountSuccessfulWidget> {
     SchedulerBinding.instance.addPostFrameCallback((_) async {
       await Future.delayed(const Duration(milliseconds: 1000));
 
-      context.pushNamed('FillYourProfile');
+      context.goNamed('FillYourProfile');
     });
   }
 
